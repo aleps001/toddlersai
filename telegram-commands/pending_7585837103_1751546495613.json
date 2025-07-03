@@ -1,0 +1,13 @@
+{
+  "id": "7585837103_1751546495613",
+  "chatId": 7585837103,
+  "command": "/carousel 3",
+  "userName": "Alexandre",
+  "timestamp": 1751546495613,
+  "createdAt": "2025-07-03T12:41:35.613Z",
+  "status": "pending",
+  "account": "telegram_commands",
+  "commandType": "carousel",
+  "requestedCount": 3,
+  "isSequential": false
+}
